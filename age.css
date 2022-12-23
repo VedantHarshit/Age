@@ -1,0 +1,27 @@
+input[type="date"] {
+    display: block;
+    margin : 0 auto;
+}
+
+h4 {
+    padding-top : 2rem;
+    padding-bottom: 0.5rem;
+  }
+
+.content-wise{
+    display: block;
+    margin : 1rem auto;
+}
+
+.btn{
+    display: block;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
